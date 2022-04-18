@@ -25,7 +25,7 @@ SECRET_KEY = '075u-q_+i&w%7zvbvl^540@ir5(x#-l0lhg&a@ou&d-6i%a%n)'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ["ytvid-downloader.herokuapp.com"]
+ALLOWED_HOSTS = ["yatis.azurewebsites.net"]
 
 
 # Application definition
